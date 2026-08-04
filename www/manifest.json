@@ -1,0 +1,18 @@
+{
+  "name": "برنامه‌ریز من",
+  "short_name": "برنامه‌ریز",
+  "description": "یادآور سفارشی با امکان برنامه‌ریزی روزهای دلخواه بدون الگوی ثابت",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E9EFE3",
+  "theme_color": "#16302B",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
