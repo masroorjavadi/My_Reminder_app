@@ -1,0 +1,14 @@
+{
+  "appId": "com.example.myreminder",
+  "appName": "برنامه‌ریز من",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#D9A441"
+    }
+  }
+}
